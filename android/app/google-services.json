@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1045796602242",
+    "project_id": "awamrake",
+    "storage_bucket": "awamrake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045796602242:android:2d0ad405a06dc01ba28f9b",
+        "android_client_info": {
+          "package_name": "com.awarake.awarake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045796602242-jamajv732mnkmjm0acp1ts57cqtp1no4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awarake.awarake",
+            "certificate_hash": "7602e79e4834ea79e6b9bc88fb98f25cfc468733"
+          }
+        },
+        {
+          "client_id": "1045796602242-vpvca8415jcrjom6qobucc4l9rfobc26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJWPgI2rTBLCgV9aG-0_bqFPDEAdrm9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045796602242-vpvca8415jcrjom6qobucc4l9rfobc26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
